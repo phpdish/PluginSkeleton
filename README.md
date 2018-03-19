@@ -1,5 +1,6 @@
 # PHPDish Plugin Skeleton
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/phpdish/plugin-skeleton.svg?style=flat-square&label=stable)](https://packagist.org/packages/phpdish/plugin-skeleton)
 [![Total Downloads](https://img.shields.io/packagist/dt/phpdish/plugin-skeleton.svg?style=flat-square)](https://packagist.org/packages/phpdish/plugin-skeleton)
 [![MIT License](https://img.shields.io/packagist/l/phpdish/plugin-skeleton.svg?style=flat-square)](https://packagist.org/packages/phpdish/plugin-skeleton)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/phpdish/plugin-skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/phpdish/plugin-skeleton/?branch=master)
