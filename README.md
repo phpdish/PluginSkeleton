@@ -1,6 +1,10 @@
 # PHPDish Plugin Skeleton
 
-创建 PHPDish 用到的样例代码。 
+[![Total Downloads](https://img.shields.io/packagist/dt/phpdish/plugin-skeleton.svg?style=flat-square)](https://packagist.org/packages/phpdish/plugin-skeleton)
+[![MIT License](https://img.shields.io/packagist/l/phpdish/plugin-skeleton.svg?style=flat-square)](https://packagist.org/packages/phpdish/plugin-skeleton)
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/phpdish/plugin-skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/phpdish/plugin-skeleton/?branch=master)
+
+创建 PHPDish 用到的样例代码。一个 PHPDish 插件应该是一个合法的 Symfony 组件。所有的文件结构遵循 [Symfony Bundle](http://symfony.com/doc/current/bundles.html)。
 
 ## Installation
 
@@ -36,5 +40,10 @@
    注意，在插件的开发阶段，为确保你的插件会被项目加载，你需要把上面提到的加载项也写入到 `PHPDish` 的 `composer.json` 文件
    里去。
 
+## Support
 
+如果有问题可以前往官网发帖或者直接在 issue 提问。
 
+## License
+   
+采用 [MIT](https://opensource.org/licenses/MIT) 开源许可证。
