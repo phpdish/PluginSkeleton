@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://img.shields.io/packagist/v/phpdish/plugin-skeleton.svg?style=flat-square&label=stable)](https://packagist.org/packages/phpdish/plugin-skeleton)
 [![Total Downloads](https://img.shields.io/packagist/dt/phpdish/plugin-skeleton.svg?style=flat-square)](https://packagist.org/packages/phpdish/plugin-skeleton)
 [![MIT License](https://img.shields.io/packagist/l/phpdish/plugin-skeleton.svg?style=flat-square)](https://packagist.org/packages/phpdish/plugin-skeleton)
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/phpdish/plugin-skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/phpdish/plugin-skeleton/?branch=master)
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/phpdish/PluginSkeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/phpdish/PluginSkeleton/?branch=master)
 
 创建 PHPDish 用到的样例代码。一个 PHPDish 插件应该是一个合法的 Symfony 组件。所有的文件结构遵循 [Symfony Bundle](http://symfony.com/doc/current/bundles.html)。
 
